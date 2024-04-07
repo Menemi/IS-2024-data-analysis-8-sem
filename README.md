@@ -10,18 +10,18 @@
 
 ## Лабораторные работы
 
-- [x] [Lab1](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab1/lab1.ipynb)
+### [Lab1](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab1/lab1.ipynb)
 > В задании 1.1 не хватает проверки на то, что вы получили все нужные id
 > В задании 1.3 неудачные визуализации.  На графике для структурных подразделений нет понятной логики упорядочивания данных.
 > В остальном хорошо, работа зачтена
 
-- [x] [Lab2](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab2/lab2.ipynb)
+### [Lab2](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab2/lab2.ipynb)
 > string.punctuation - содержит лишние символы, это ведет к ложным срабатываниям. Например, Обмен веществ (метаболизм) - нормальная сущность
 > В формулировках критериев не очень понятно, они все по отдельности должны быть, или их как-то комбинировать можно
 
-- [x] [Lab3](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab3/lab3.ipynb)
+### [Lab3](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab3/lab3.ipynb)
 > Нет задания 3.4
 
-- [x] [Lab4](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab4/lab4.ipynb)
+### [Lab4](https://github.com/Menemi/IS-2024-data-analysis-8-sem/blob/master/lab4/lab4.ipynb)
 > В заданиях 4.2 и 4.3 не хватает примеров, анализа результатов и выводов
 > Задание 4.4 не сделано
